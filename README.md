@@ -1,4 +1,4 @@
-# MKTS-Projects Quantitative Research Lab
+# Projects Quantitative Research Lab
 
 Welcome to the quantitative research space where fractal mathematics and capital flow converge to create advanced trading tools.
 
