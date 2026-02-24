@@ -14,4 +14,4 @@ A visual and mathematical exploration of how fractal patterns can predict volati
 
 *"Markets are chaotic, but their chaos has geometric structure."*
 ---
-*"email: nestor.boza@gmail.com"*
+*"email: entusiasmoadhoc@zohomail.com"*
